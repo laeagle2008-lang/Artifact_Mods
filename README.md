@@ -1,2 +1,2 @@
-# Artifact_Mods
+# Artifact Mods
 All artifact mods and what they do
